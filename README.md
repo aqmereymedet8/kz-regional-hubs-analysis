@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Executive Summary & Problem Statement
-During my volunteering at IOAI 2026 in Astana, I observed a critical pattern: talented students from regions across Kazakhstan traveled to Astana not for coworking space, but to gain access to **advanced AI research infrastructure, high-level industry mentorship, and international connections**. While basic IT hubs exist in regional centers, a structural gap remains between simple coworking spaces and true **AI Innovation Clusters**. This project conducts a quantitative analysis of regional IT hub infrastructure in Kazakhstan to highlight the disparity and advocate for decentralized AI research labs.
+During my volunteer work at IOAI 2026 in Astana, I observed a critical pattern: talented students from regions across Kazakhstan traveled to Astana not for coworking space, but to gain access to **advanced AI research infrastructure, high-level industry mentorship, and international connections**. While basic IT hubs exist in regional centers, a structural gap remains between simple coworking spaces and true **AI Innovation Clusters**. This project conducts a quantitative analysis of regional IT hub infrastructure in Kazakhstan to highlight the disparity and advocate for decentralized AI research labs.
 
 In recent years, Kazakhstan has established regional IT hubs across major oblast centers to foster digital literacy and local tech entrepreneurship. However, firsthand observations from national IT competitions reveal a structural bottleneck: **gifted high-school students and young engineers continuously migrate to Astana and Almaty**.
 
