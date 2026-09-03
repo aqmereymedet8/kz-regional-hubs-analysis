@@ -1,9 +1,8 @@
-# Deep Quantitative Analysis of Regional IT Hubs & AI Infrastructure Gap in Kazakhstan
+# Analysis of Regional IT & AI Hubs in Kazakhstan
 
 **Author:** Akmerey Sailau  
 **Target Program:** Global Korea Scholarship (GKS)  
 **Field of Study:** Computer Science & Engineering  
-**Analytical Framework:** Infrastructure Equity Index, Correlation Analysis, & Regional Cluster Modeling  
 
 ---
 
