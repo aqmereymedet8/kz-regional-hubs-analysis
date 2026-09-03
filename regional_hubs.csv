@@ -1,0 +1,9 @@
+region,city,hub_name,has_coworking,basic_courses_offered,advanced_ai_labs,industry_mentors,international_grants_usd,r_and_d_projects_count,compute_cluster_access,talent_retention_rate_pct
+Astana,Astana,Astana Hub,1,1,1,45,250000,32,1,78.5
+Almaty,Almaty,SmArt.Point / Most,1,1,1,38,180000,28,1,72.0
+Shymkent,Shymkent,Shymkent IT Hub,1,1,0,4,15000,3,0,31.2
+Karaganda,Karaganda,Terrikon Valley,1,1,0,8,25000,5,0,38.0
+Atyrau,Atyrau,Atyrau Tech Hub,1,1,0,3,10000,2,0,24.5
+Pavlodar,Pavlodar,Ertis Hub,1,1,0,2,8000,1,0,21.0
+Aktobe,Aktobe,Aktobe IT Hub,1,1,0,3,12000,2,0,28.4
+Oskemen,Oskemen,Abai IT Valley,1,1,0,5,18000,4,0,33.0
