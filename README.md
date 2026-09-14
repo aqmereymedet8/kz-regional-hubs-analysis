@@ -2,7 +2,7 @@
 
 **Author:** Akmerey Sailau  
 **Target Program:** Global Korea Scholarship (GKS)  
-**Field of Study:** Computer Science & Engineering  
+**Field of Study:** Computer Engineering  
 
 ---
 
