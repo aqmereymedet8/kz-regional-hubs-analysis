@@ -1,6 +1,6 @@
 # Analysis of Regional IT & AI Hubs in Kazakhstan
 
-**Author:** Akmerey Sailau  
+**Author:** SAILAU AKMEREY  
 **Target Program:** Global Korea Scholarship (GKS)  
 **Field of Study:** Computer Engineering  
 
