@@ -79,9 +79,9 @@ To solve the regional brain drain without duplicating massive capital expenses i
 
 ## 🎯 Academic Motivation for GKS (South Korea & Computer Science)
 
-South Korea’s successful establishment of regional tech innovation centers (such as **Pangyo Techno Valley**, **Daedok Innopolis in Daejeon**, and regional AI clusters in **Gwangju**) offers a model for decentralizing technology ecosystems.
+South Korea’s successful establishment of regional tech innovation centers (such as **Pangyo Techno Valley**, **Gwanggyo Techno Valley**, **Daedok Innopolis in Daejeon**, and regional AI clusters in **Gwangju**) offers a model for decentralizing technology ecosystems.
 
-Through studying **Computer Science & Engineering in South Korea under the GKS Program**, my core objectives are:
+Through studying **Computer Engineering in South Korea under the GKS Program**, my core objectives are:
 - Master **Scalable AI Infrastructure**, Distributed Data Systems, and Machine Learning Operations (MLOps).
 - Gain firsthand insights into South Korea's **Public-Private Tech Transfer Protocols**.
 - Apply these methodologies upon return to build scalable, decentralized AI infrastructure across regional Kazakhstan.
